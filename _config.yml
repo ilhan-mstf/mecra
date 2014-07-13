@@ -1,0 +1,15 @@
+# Site settings
+title: Mecra
+email: mecra@bilkent.edu.tr
+copyright: 2014 Bilkent Üniversitesi
+description: "description"
+baseurl: ""
+url: "http://mecra.bilkent.edu.tr"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  issues:
+    output: true

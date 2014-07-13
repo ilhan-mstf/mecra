@@ -1,0 +1,25 @@
+---
+layout: default
+title: Dosyalar - Mecra
+nav_active: issues
+breadcrumbs:
+ - title: Anasayfa
+   url: /
+   active: false
+ - title: Dosyalar
+   url: 
+   active: true
+---
+<div class="container">
+
+	{% include breadcrumb.html %}
+
+    {% assign counter = '.' %}
+    {% for issue in site.issues reversed %}
+        {% if counter.size <= 5 and issue.tags contains "index" %}
+            {% assign post = issue %}
+            {% include issue.html %}
+      {% endif %}
+    {% endfor %}
+
+</div>

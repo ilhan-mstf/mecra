@@ -1,0 +1,29 @@
+---
+layout: default
+nav_active: issues
+---
+<div class="container">
+
+    {% include breadcrumb.html %}
+
+    <div align="center">
+        <article>
+            <div class="article-intro">
+                <h1 class="cover-heading">{{ page.article_title }}</h1>
+                <p class="lead"><em>{{ page.author }}</em>
+                </p>
+                <p><em>{{ page.date }}</em>
+                </p>
+                <p class="lead">{{ page.abstract }}</p>
+            </div>
+
+            {{ content }}
+
+        </article>
+    </div>
+    
+    {% include breadcrumb.html %}
+
+</div>
+
+

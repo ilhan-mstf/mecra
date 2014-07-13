@@ -1,0 +1,10 @@
+<h1 class="issue-heading">Dosya// {{ post.article_title }}</h1>
+<h4><em>{{ post.author }}, {{ post.date }}</em></h4>
+<p>{{ post.content }}</p>
+<h3>Bu dosyadaki makaleler:</h3>
+<dl class="dl-horizontal">
+	{% for article in post.articles %}
+		<dt class="article-list"><span class="author">{{ article.author }}</span></dt>
+		<dd class="article-list"><a class="article-link" href="{{ article.url }}">{{ article.title }}</a></dd>
+  {% endfor %}
+</dl>
