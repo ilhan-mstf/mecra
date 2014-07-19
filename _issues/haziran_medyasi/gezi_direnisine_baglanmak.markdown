@@ -50,7 +50,7 @@ benzer bir sürü soru kafamda cevapsız kalmıştı.
 
 İstanbul'da yaşayan arkadaşlarımın da Gezi protestoları hakkında benden daha fazla bilgiye 
 sahip olmadığı ortaya çıkınca, bildiğim bütün bilgi kaynakları tükenmiş oldu. Bu çaresizliği Facebook üzerinden paylaştıktan sonra, başka bir sosyal medya platformu olan Twitter'ın Gezi hakkında haber 
-almak için neredeyse tek “güvenilir”kaynak olduğu eski bir Twitter kullanıcısı tarafından bana 
+almak için neredeyse tek “güvenilir” kaynak olduğu eski bir Twitter kullanıcısı tarafından bana 
 açıklandı. Bunun üstüne yıllardır kullanmadığım Twitter hesabımı tekrar kulanmaya başladım. 
 
 
@@ -151,7 +151,7 @@ bir bağı olduğu, birinin diğerinden daha önemli olup olmadığı sıklıkla
 ayrı olarak görülmeye oldukça yatkın olan bu ikili, aslında Gezi eylemleri boyunca tek bir direnişin iki 
 farklı platforma yansımış halleri idi. Sadece çevrimiçi veya çevrimdışı protestolar ve hareketler 
 üzerinden yapılan bir Gezi eylemleri analizi, resmin yarısını görmeye mahkum kalır. Gezi eylemleri 
-boyunca,“Her yer Taksim” olabildi; çünkü çevrimiçi platformlar Gezi Parkı’nı nerede olursak olalım en 
+boyunca, “Her yer Taksim” olabildi; çünkü çevrimiçi platformlar Gezi Parkı’nı nerede olursak olalım en 
 yakınımızdaki bilgisayar veya telefon ekranına taşıdı. Aynı şekilde “Her yer direniş” idi, çünkü 
 direnişçiler bireyler olarak çevrimdışı platformlardaydılar; sokaklarda kendileri ile aynı politik duruşu 
 sahip olmayan insanlarla empati kurabiliyor, kendi protestolarını onlarınki ile birleştirebiliyorlardı. 
@@ -159,6 +159,5 @@ sahip olmayan insanlarla empati kurabiliyor, kendi protestolarını onlarınki i
 
 Kaynakça
 ---
-1. Juris, J. S. 2012. “Reflections on #Occupy Everywhere: Social Media, Public Space, and Emerging Logics of Aggregation,” 
-American Ethnologist 39(2): 259-279.
+1. Juris, J. S. 2012. “Reflections on #Occupy Everywhere: Social Media, Public Space, and Emerging Logics of Aggregation,” American Ethnologist 39(2): 259-279.
 2. Howard, Rheingold. 2003. Smart Mobs: The Next Social Revolution. 

@@ -2,7 +2,7 @@
 layout: article
 nav_active: issues
 title: Erdogan Şekerci - Haziran Medyası
-article_title: "'Kendin çek, kendin izlet': Gezi Sürecindeki Çevrimiçi Haberciliğin Performans Kuramı ile Yorumlanması"
+article_title: "“Kendin çek, kendin izlet”: Gezi Sürecindeki Çevrimiçi Haberciliğin Performans Kuramı ile Yorumlanması"
 author: Erdogan Şekerci
 date: Haziran 2014
 abstract:
@@ -17,7 +17,7 @@ breadcrumbs:
  - title: Haziran Medyası
    url: /issues/haziran_medyasi
    active: false
- - title: "'Kendin çek, kendin izlet': Gezi Sürecindeki Çevrimiçi Haberciliğin Performans Kuramı ile Yorumlanması"
+ - title: "“Kendin çek, kendin izlet”: Gezi Sürecindeki Çevrimiçi Haberciliğin Performans Kuramı ile Yorumlanması"
    url:
    active: true
 ---
@@ -60,7 +60,7 @@ okumak/yazmak yerine, temsil sürecine odaklanır. Gümüş ve Gündoğan,
 Schechner’in performans kuramı ile ilgili olarak şöyle der: “Schechner, insan
 yaşayışının ve davranışının toplandığı yerin sadece ‘arşiv’ler değil, aynı zamanda
 yapma-etme halleri gibi yazılı olmayan deneyimlerin biriktiği ‘repertuar’ kavramı
-olduğunun altını çizer.”1 Bu durumda performans kuramı, tarihselleştirmeden uzakta
+olduğunun altını çizer.” (1) Bu durumda performans kuramı, tarihselleştirmeden uzakta
 durmayı seçer. Kültürel, sosyal, politik yapıların arşivin tekrar tekrar analizi ile ‘ne
 olduğunu’ bulmanın ötesinde, yapanın gösterimi ya da yapanın temsili sınırlarında
 salınmayı önemser. Çıkış ve varış noktalarının uzamsal olarak değişenlik
@@ -80,7 +80,7 @@ söyleyerek değil, eyleyerek kılma eğilimindedir. Schechner ‘performans kur
 üzerine olan fikirlerini şu şekilde açıklamıştır:
 
 
-> Olmak var olmanın kendisidir, yapmak ise var olan her şeyin yaptığı her şey olarak tanımlanır. Yaptığını göstermek, yapılanın altını çizmek ve vurgulamaktır ve böylece icra oluşur. Yaptığını göstermeyi açıklamak ise düşünümsel (reflexive) bir uzaklık yaratarak yapılanın nasıl gösterildiği üzerine çalışmaktır, yani performans çalışmalarının yaptığıdır.(2)
+> Olmak var olmanın kendisidir, yapmak ise var olan her şeyin yaptığı her şey olarak tanımlanır. Yaptığını göstermek, yapılanın altını çizmek ve vurgulamaktır ve böylece icra oluşur. Yaptığını göstermeyi açıklamak ise düşünümsel (reflexive) bir uzaklık yaratarak yapılanın nasıl gösterildiği üzerine çalışmaktır, yani performans çalışmalarının yaptığıdır. (2)
 
 
 Performans kuramı çerçevesinde tanımlanan ‘icra’ olgusu, ‘olmak’
