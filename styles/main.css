@@ -34,6 +34,7 @@ body {
     font-style: italic;
     margin-top: 26px;
     margin-left: 5px;
+    float: left;
 }
 .masthead-nav > li {
     display: inline-block;
@@ -53,7 +54,7 @@ body {
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
     background-color: transparent;
-    border-bottom-color: rgba(0, 0, 0, .5);
+    border-bottom-color: rgba(0, 0, 0, .4);
 }
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
@@ -102,14 +103,17 @@ header > .container {
 .article-list {
     padding-top: 15px;
 }
-.article-intro {
-    text-align: center;
-}
 article {
     padding-bottom: 30px;
     max-width: 600px;
+    text-align: left;
+    /*
     text-align: justify;
     text-justify: newspaper
+    */
+}
+.article-intro {
+    text-align: center;
 }
 article p {
     margin: 0 0 20px;
@@ -130,4 +134,47 @@ article img {
 .bs-callout-warning {
     background-color: #fcf8f2;
     border-color: #f0ad4e;
+}
+
+@media (min-width: 1024px) {
+    .dl-horizontal dt {
+        width: 165px;
+    }
+}
+
+@media (max-width: 800px) {
+    header {
+        text-align: center;
+    }
+    
+    .masthead-brand {
+        float: none;
+    }
+    
+    .masthead-exp {
+        float: none;
+        margin: 10px 0;
+    }
+    
+    .masthead-nav {
+        float: none;
+    }
+    
+    body > .container {
+        padding: 40px 15px 0;
+    }
+    
+    .footer {
+        bottom: 60px;
+    }
+    
+    body {
+        margin-bottom: 126px;
+    }
+}
+
+@media (max-width: 800px) {
+    article img {
+        max-width: 100%;
+    }
 }
