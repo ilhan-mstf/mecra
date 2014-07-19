@@ -173,7 +173,7 @@ article img {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
     article img {
         max-width: 100%;
     }
