@@ -1,8 +1,9 @@
 # Site settings
 title: Mecra
 email: mecra@bilkent.edu.tr
-copyright: 2014 Bilkent Üniversitesi
-description: "description"
+copyright: 2014 Mecra
+description: "Medya ve Kültürel Çalışmalar Platformu"
+keywords: "Medya, Bilkent Üniversitesi, Medya ve Görsel Çalışmalar, Medya ve Tasarim, Haziran Medyası"
 baseurl: ""
 url: "http://mecra.bilkent.edu.tr"
 
@@ -13,3 +14,5 @@ permalink: pretty
 collections:
   issues:
     output: true
+
+exclude: [ACCOUNT_CREDENTIALS, LICENSE]
