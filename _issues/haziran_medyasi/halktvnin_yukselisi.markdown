@@ -2,7 +2,7 @@
 layout: article
 nav_active: issues
 title: Oğuz Burkay Kuzucu - Haziran Medyası
-article_title: HALK TV’nin YÜKSELİŞİ
+article_title: Halk Tv’nin Yükselişi
 author: Oğuz Burkay Kuzucu
 date: Haziran 2014
 abstract:
@@ -16,7 +16,7 @@ breadcrumbs:
  - title: Haziran Medyası
    url: /issues/haziran_medyasi
    active: false
- - title: HALK TV’nin YÜKSELİŞİ
+ - title: Halk Tv’nin Yükselişi
    url:
    active: true
 ---

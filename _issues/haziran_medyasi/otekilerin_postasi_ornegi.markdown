@@ -2,7 +2,7 @@
 layout: article
 nav_active: issues
 title: Oya Acet - Haziran Medyası
-article_title: "TÜRKİYE’DE YENİ TOPLUMSAL HAREKETLER VE SİYASAL MÜCADELE ARACI OLARAK SOSYAL MEDYA: ÖTEKİLERİN POSTASI ÖRNEĞİ"
+article_title: "Türkiye'de Yeni Toplumsal Hareketler ve Siyasal Mücadele Aracı Olarak Sosyal Medya: Ötekilerin Postası Örneği"
 author: Oya Acet
 date: Haziran 2014
 abstract: 
@@ -17,7 +17,7 @@ breadcrumbs:
  - title: Haziran Medyası
    url: /issues/haziran_medyasi
    active: false
- - title: "TÜRKİYE’DE YENİ TOPLUMSAL HAREKETLER VE SİYASAL MÜCADELE ARACI OLARAK SOSYAL MEDYA: ÖTEKİLERİN POSTASI ÖRNEĞİ"
+ - title: "Türkiye'de Yeni Toplumsal Hareketler ve Siyasal Mücadele Aracı Olarak Sosyal Medya: Ötekilerin Postası Örneği"
    url:
    active: true
 ---
