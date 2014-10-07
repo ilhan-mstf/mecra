@@ -97,6 +97,10 @@ header > .container {
 .article-link {
 
 } 
+.read-more {
+    display: inline;
+    cursor: pointer;
+}
 .author {
     font-style: italic;
 }

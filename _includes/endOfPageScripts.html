@@ -21,3 +21,11 @@
   ga('require', 'linkid', 'linkid.js');
   ga('send', 'pageview');
 </script>
+
+<script>
+    function readMore(link, el) {
+        $(link).fadeOut(function() {
+            $(el).css({display: "inline"});
+        });
+    }
+</script>
